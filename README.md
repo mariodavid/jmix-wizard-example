@@ -7,4 +7,4 @@ This example application let's you create UI wizards through a specific UI compo
 ![checkout-wizard-step-1](img/1-customer.png)
 
 
-See also: [Jmix Wizard](https://github.com/mariodavid/jmix-wizard-example)
+See also: [Jmix Wizard](https://github.com/mariodavid/jmix-wizard)
