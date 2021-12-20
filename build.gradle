@@ -16,8 +16,10 @@ repositories {
     mavenLocal()
     mavenCentral()
     maven {
-        url 'https://global.repo.jmix.io/repository/public'
+//        url 'https://global.repo.jmix.io/repository/public'
+        url 'https://nexus.jmix.io/repository/public'
     }
+
 }
 
 dependencies {
@@ -40,7 +42,7 @@ dependencies {
         exclude group: 'org.junit.vintage', module: 'junit-vintage-engine'
     }
 
-    implementation 'de.diedavids.jmix:jmix-wizard-starter:0.0.1-SNAPSHOT'
+    implementation 'de.diedavids.jmix.wizard:jmix-wizard-starter:0.1.0'
 }
 
 test {
