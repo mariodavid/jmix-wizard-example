@@ -9,7 +9,7 @@ jmix {
     bomVersion = '1.1.1'
 }
 
-group = 'com.company'
+group = 'de.diedavids.jmix.wizard.example'
 version = '0.0.1-SNAPSHOT'
 
 repositories {
